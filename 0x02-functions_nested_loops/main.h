@@ -1,2 +1,1 @@
- #include "main.h"
-void _putchar(void);
+#include <unistd.h>
