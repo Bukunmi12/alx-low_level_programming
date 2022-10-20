@@ -1,4 +1,4 @@
 #include <unistd.h>
 
 
-int alphabet(char c);
+int alphabet{main c);
