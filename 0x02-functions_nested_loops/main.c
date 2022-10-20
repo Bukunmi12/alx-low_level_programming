@@ -2,4 +2,4 @@
 
 
 
-int _putchar(main);
+int _alphabet(main c);
