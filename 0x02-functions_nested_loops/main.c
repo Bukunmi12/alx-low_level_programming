@@ -2,4 +2,4 @@
 
 
 
-int _1-alphabet(bet C);
+int _putchar(char c);
