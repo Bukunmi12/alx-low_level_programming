@@ -13,7 +13,6 @@
 int main(void)
 	
 {
-        return (write(1, &c, 1));
 
 	_putchar('_');
 
