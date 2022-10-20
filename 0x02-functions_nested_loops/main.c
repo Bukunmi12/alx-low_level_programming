@@ -2,4 +2,4 @@
 
 
 
-int main(bet c);
+void print_alphabet(void);
