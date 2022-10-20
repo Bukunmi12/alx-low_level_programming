@@ -2,4 +2,4 @@
 
 
 
-void print_alphabet(void);
+int _alphabet(void);
