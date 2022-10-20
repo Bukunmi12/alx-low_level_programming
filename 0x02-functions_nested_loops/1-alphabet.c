@@ -3,7 +3,8 @@
 /**
  *
  *  * print_alphabet - Entry point
- *  Description: '1-alphabet.c'
+ *
+ * Description: '1-alphabet.c'
  *
  *   * Return:0
  *
