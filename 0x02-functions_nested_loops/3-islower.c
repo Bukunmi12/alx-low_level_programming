@@ -2,7 +2,7 @@
 
 /**
  *  * _islower - checks for lowercase character
- *    Description: '3-islower.c'
+ *    Description: 'parameter'
  *    * Return: 1 if c is lowercase, 0 otherwise
  */
 int _islower(int c)
