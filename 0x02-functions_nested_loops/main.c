@@ -2,4 +2,4 @@
 
 
 
-int _alphabet(main c);
+int main(bet c);
