@@ -3,9 +3,8 @@
 
 
 /**
- *
  *  * main -  prints _putchar, followed by a new line
- *
+ *  * Description: putchar spelt out in c'
  *   * Return: Always 0 (Success)
  *
  */
