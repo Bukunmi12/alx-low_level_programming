@@ -3,4 +3,4 @@
 
 
 int _putchar(char c);
-void 2-print_alphabet_x10(void);
+2-print_alphabet_x10(void);
