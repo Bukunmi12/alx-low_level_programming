@@ -4,6 +4,8 @@
  *
  *  * print_alphabet - Entry point
  *
+ *  Description: 'the program's description'
+ *
  *   * Return:0
  *
  *
