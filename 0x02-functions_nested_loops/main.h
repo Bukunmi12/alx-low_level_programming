@@ -3,4 +3,4 @@
 
 
 int _putchar(char c);
-int _islower(int c);
+void 2-print_alphabet_x10(void);
