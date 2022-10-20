@@ -1,3 +1,4 @@
 #include <unistd.h>
 
-int _alphabet(char c);
+
+int _alphabet(bet c);
